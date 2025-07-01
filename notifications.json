@@ -1,13 +1,35 @@
 {
   "messages": [
     {
-      "id": "maintenance-2025-01",
+      "id": "maintenance-2025-001",
       "type": "warning",
       "content": "knBONE bridge relayer infrastructure is under maintenance. You can still stake your BONE but it may take a while to appear on Shibarium. Thank you for your patience while we upgrade infrastructure to serve you better.",
       "startDate": "2025-07-01T00:00:00Z",
       "endDate": "2026-01-01T00:00:00Z",
       "dismissible": true,
       "priority": 1
+    },
+    {
+      "id": "shima-001",
+      "type": "success",
+      "content": "Shima @ work...",
+      "startDate": "2025-07-01T00:00:00Z",
+      "endDate": "2026-01-01T00:00:00Z",
+      "dismissible": true,
+      "priority": 10,
+      "link": {
+        "text": "SHIB ARMY",
+        "url": "https://shib.army"
+      }
+    },
+    {
+      "id": "shima-002",
+      "type": "info",
+      "content": "Shibarium is cool.",
+      "startDate": "2025-07-01T00:00:00Z",
+      "endDate": "2026-01-01T00:00:00Z",
+      "dismissible": false,
+      "priority": 2
     }
   ]
 }
