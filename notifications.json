@@ -28,7 +28,7 @@
       "content": "Shibarium is cool.",
       "startDate": "2025-07-01T00:00:00Z",
       "endDate": "2026-01-01T00:00:00Z",
-      "dismissible": false,
+      "dismissible": true,
       "priority": 2
     }
   ]
