@@ -10,7 +10,7 @@
       "priority": 1
     },
     {
-      "id": "shima-001",
+      "id": "shima-test-001",
       "type": "success",
       "content": "Shima @ work...",
       "startDate": "2025-06-01T00:00:00Z",
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "shima-002",
+      "id": "shima-test-002",
       "type": "info",
       "content": "Shibarium is cool.",
       "startDate": "2025-05-01T00:00:00Z",
