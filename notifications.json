@@ -1,9 +1,9 @@
 {
   "messages": [
     {
-      "id": "maintenance-2025-001",
-      "type": "warning",
-      "content": "knBONE bridge relayer infrastructure is under maintenance. You can still stake your BONE but it may take a while to appear on Shibarium. Thank you for your patience while we upgrade infrastructure to serve you better.",
+      "id": "maintenance-2025-002",
+      "type": "info",
+      "content": "New liquid staked knBONE maybe be delayed appearing on Shibarium while the bridge indexer is catching up. Expect full speed to resume in ~24 hours.",
       "startDate": "2025-07-01T00:00:00Z",
       "endDate": "2025-07-07T00:00:00Z",
       "dismissible": true,
